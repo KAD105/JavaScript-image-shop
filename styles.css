@@ -13,6 +13,17 @@ body {
     background-size: contain;
 }
 
+/*logo*/
+
+.logo {
+    position: absolute;
+  
+}
+
+#left-ul {
+    padding-left: 80px;
+}
+
 /* Navigation bar*/
 
 nav{
